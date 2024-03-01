@@ -1,0 +1,4 @@
+.main-card {
+  max-height: 22em;
+  overflow-y: scroll;
+}
